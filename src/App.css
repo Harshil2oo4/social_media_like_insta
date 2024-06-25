@@ -1,0 +1,64 @@
+.main_container{
+  display: flex;
+}
+
+.content{
+  width: 100%;
+}
+
+.full_length{
+  min-height:641px ;
+  max-height:641px ;
+  /* width: 10px; */
+}
+
+.instagram-size{
+  font-size: 40px;
+  float: left;
+}
+
+.post_card{
+  margin: 30px;
+  padding: 10px;
+  padding-bottom: 0
+}
+
+.tags_spacing{
+  margin: 5px;
+}
+
+.alert_spacing{
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+.spacing_postform{
+  /* margin: 20x 20px; */
+  padding: 25px 50px;
+  width: 60%;
+}
+
+/* .space_delete{
+  width: 70%;
+  margin-left: 60px;
+  margin-top: 20px;
+} */
+
+.spacing_welcome{
+  margin: 30px;
+  width: 70%;
+  font-size: 20px;
+  font-weight: 600;
+  align-items: center;
+  /* border: 2px solid black; */
+  margin-left: 180px;
+}
+
+.spacing_reloading{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  width: 3rem; 
+  height: 3rem;
+  margin-left: 48% ;
+}
+
